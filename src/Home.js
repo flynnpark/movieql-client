@@ -6,7 +6,7 @@ import Movie from './Movie';
 
 const Container = styled.div`
   display: grid;
-  grid-template-columns: repeat(3, 0.7fr);
+  grid-template-columns: repeat(5, 0.7fr);
   flex-wrap: wrap;
   justify-items: center;
 `;
